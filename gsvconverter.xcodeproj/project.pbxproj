@@ -23,6 +23,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		88DCC1B1238E9C550069C70B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		88DCC1B2238E9DC60069C70B /* samplegsv.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = samplegsv.csv; sourceTree = "<group>"; };
+		88DCC1B3238E9DC70069C70B /* samplegsv.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = samplegsv.json; sourceTree = "<group>"; };
 		88FAD975238E10FF0007D10C /* gsvconverter */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = gsvconverter; sourceTree = BUILT_PRODUCTS_DIR; };
 		88FAD978238E10FF0007D10C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -41,6 +44,9 @@
 		88FAD96C238E10FF0007D10C = {
 			isa = PBXGroup;
 			children = (
+				88DCC1B1238E9C550069C70B /* README.md */,
+				88DCC1B2238E9DC60069C70B /* samplegsv.csv */,
+				88DCC1B3238E9DC70069C70B /* samplegsv.json */,
 				88FAD977238E10FF0007D10C /* gsvconverter */,
 				88FAD976238E10FF0007D10C /* Products */,
 			);
