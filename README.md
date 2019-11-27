@@ -4,13 +4,13 @@ GSV Assets are bundled:
 
 <pre><code>
 struct PlayData:Codable, Equatable {
-let title: String
-let subtitle: String
-let author: String
-let headers: [String]
-let data: [[String]]
+  let title: String
+  let subtitle: String
+  let author: String
+  let headers: [String]
+  let data: [[String]]
 }
-</code></pre>
+</code></pre>  
 
 ## Covert GSV Files to GSON Files and vice versa
 
